@@ -22,7 +22,6 @@ I'm a fresher transitioning into VLSI RTL Design and Verification, currently com
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/madhan-mp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mpmadhan" height="30" width="40" /></a>
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mpmadhan04@gmail.com) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=mpmadhan&theme=apprentice&hide_border=true&include_all_commits=true&count_private=false)<br/>

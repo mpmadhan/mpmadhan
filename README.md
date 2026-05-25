@@ -28,8 +28,3 @@ I'm a fresher transitioning into VLSI RTL Design and Verification, currently com
 ![](https://github-readme-stats.shion.dev/api?username=mpmadhan&theme=apprentice&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=mpmadhan&theme=apprentice&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mpmadhan&theme=apprentice&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mpmadhan&limit=5&theme=apprentice&combine_all_yearly_contributions=true)
-
-[![](https://komarev.com/ghpvc/?username=mpmadhan&icon=0&color=FF1F)](https://visitcount.itsvg.in)

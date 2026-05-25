@@ -22,3 +22,22 @@ I'm a fresher transitioning into VLSI RTL Design and Verification, currently com
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/madhan-mp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mpmadhan" height="30" width="40" /></a>
+
+# 💫 About Me:
+I'm a fresher transitioning into VLSI RTL Design and Verification, currently completing a structured 6-month industry training program at Silicon Sandbox. I build and document RTL modules from scratch - starting from design specification, writing RTL and testbenches independently, simulating on EDA Playground, and publishing with professional documentation.
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/madhan-mp) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mpmadhan04@gmail.com) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=mpmadhan&theme=apprentice&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=mpmadhan&theme=apprentice&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=mpmadhan&theme=apprentice&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mpmadhan&limit=5&theme=apprentice&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=mpmadhan&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

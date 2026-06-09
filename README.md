@@ -1,4 +1,4 @@
-<h1 align="center">Hi  <img alt="wave" src="https://github.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/blob/master/Emojis/Hand%20gestures/Waving%20Hand.png" width=4.5%>, I'm Madhan M.P</h1>
+<h1 align="center">Hi  <img alt="wave" src="https://github.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/blob/master/Emojis/Hand%20gestures/Waving%20Hand.png" width=4.0%>, I'm Madhan M.P</h1>
 <h3 align="center">Aspiring RTL Design & Verification Engineer</h3>
 
 ## 💫 About Me
@@ -8,7 +8,7 @@ I'm a fresher transitioning into VLSI RTL Design and Verification, currently com
 ## 💻 What I'm Working On
 
 - 🔧 Building a structured VLSI portfolio covering combinational, sequential, FSM, protocol, and project-level RTL
-- 📡 Currently implementing UART Transmitter & Receiver in Verilog
+- 📡 Currently implementing APB Protocol in Verilog
 - 📚 Learning SystemVerilog for verification
 
 ## Tech Stack
